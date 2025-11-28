@@ -29,9 +29,10 @@ This repository index provides an overview of my publicly available projects, or
 
 ## 🎓 Academic
 
-| Repository | What it is                                      |
-|---|-------------------------------------------------|
+| Repository | What it is                                 |
+|---|--------------------------------------------|
 | [mixing](https://github.com/dominikrappaport/mixing) | Academic work on mixing times of Markov chains. |
+| [complexsquareroot](https://github.com/dominikrappaport/complexsquareroot) | What can go wrong with complex square roots? |
 
 ---
 
@@ -49,16 +50,6 @@ This repository index provides an overview of my publicly available projects, or
 |---|----------------------------------------------------|
 | [tf_wch2025](https://github.com/dominikrappaport/tf_wch2025) | Track & Field World Championships 2025 statistics. |
 | [corona](https://github.com/dominikrappaport/corona) | Impact of Covid infection on resting pulse.        |
-
----
-
-## 🗣️ Language Statistics
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikrappaport&layout=compact&theme=default" alt="Top Languages" />
-  </a>
-</p>
 
 ---
 
